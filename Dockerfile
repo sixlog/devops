@@ -1,2 +1,2 @@
 FROM alpine:latest
-apd update apache2
+RUN apd update apache2
